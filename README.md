@@ -1,4 +1,4 @@
-# Learn Generative AI
+# Learn AI
 List of youtube videos and resources to learn AI for FREE. The main intention of this repo is to keep the content listed here completely free so that anyone with time and motivation can go and learn. 
 
 Let the (Machine) Learning begin!
