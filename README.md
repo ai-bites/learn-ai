@@ -11,7 +11,7 @@ The roadmap is divided into a generalist and specialist contents. The generalist
 Any generalist in AI should be fluent in Mathematics, Programming and Fundamentals of Machine Learning.
 
 ![Capture](assets/generalist.png)
-### Mathematics 
+### Step 1 - Mathematics 
 * Linear Algebra by Prof. Gilbert Strang [![MIT](https://img.shields.io/badge/MIT-Course-green)](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010)
 * Essence of linear algebra by 3Blue1Brown [![Youtube](https://img.shields.io/badge/youtube-playlist-red)](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=qzO3W0FPK8phBwfq)
 * Introduction to Probability by Prof. John Tsitsiklis and Prof. Patrick Jaillet [![MIT](https://img.shields.io/badge/MIT-course-green)](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018) 
@@ -21,18 +21,18 @@ Any generalist in AI should be fluent in Mathematics, Programming and Fundamenta
 * Stanford Course on Convex Optimization [![Stanford Course](https://img.shields.io/badge/youtube-playlist-red)](https://youtube.com/playlist?list=PL3940DD956CDF0622&si=9zyhEK61OV9fCdQd)
 
 
-### Python Programming
+### Step 2 - Python Programming
 * Python for beginners [![Youtube](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/kqtD5dpn9C8?si=TPhoQNddwXN_tBo0)
 * Khan Academy - Intro to Python Fundamentals [![KhanAcademy](https://img.shields.io/badge/khan-academy-green)](https://www.khanacademy.org/computing/intro-to-python-fundamentals)
 * Intermediate Python Programming Course from FreeCodeCamp by Patrick [![Youtube](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/HGOBQPFzWKo?si=0a4x2UW2VB6E06GD)
 * (Practice) Leet Code [![LeetCode](https://img.shields.io/badge/leet-code-blue)](https://leetcode.com/problemset)
 
-### Machine Learning
+### Step 3 - Machine Learning
 * Machine Learning Course for Beginners by FreeCodeCamp [![Youtube](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/NWONeJKn6kc?si=DPLvbMZYn0GLF-dd)
 * Machine Learning - A gentle Introduction [![Youtube](https://img.shields.io/badge/youtube-playlist-red)](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 * Complete Machine Learning in 6 hours [![Youtube](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/JxgmHe2NyeY?si=tbhHKAj3TkKPGdJk)
 
-### Deep Learning and Neural Networks
+### Step 4 - Deep Learning and Neural Networks
 To learn Deep Learning, its better to choose between the PyTorch and TensorFlow frameworks. If you are confused, you may try out both to begin with and then choose one based on whichever feels good and convenient to you. 
 I personally chose PyTorch when it was at its beta version and loved it ever since. 
 * PyTorch Route:
@@ -54,7 +54,7 @@ If you are struggling to choose between NLP and Computer Vision, there is are cr
 
 ![Capture](assets/expert.png)
 
-### Data Science Expert
+### Step 5a - Data Science Expert
 Data scientists mostly work with time series and tabular data. For this reason, its best to learn packages like NumPy, SciPy, ScikitLearn which have impementations of most mathematical operations data scientists use on a day to day basis. They also plot and visualize data quite a lot and so its important to strengthen your Matplotlib. 
 * NumPy crash course by NeuralNine [![Youtube Video](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/4c_mwnYdbhQ?si=Ek3Ya127G9USFGkm)
 * scikitLearn crash course[![Youtube Video](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/0B5eIE_1vpU?si=J39vUzHCVLzd-A-Y)
@@ -63,7 +63,7 @@ Data scientists mostly work with time series and tabular data. For this reason, 
 * Matplotlib crash course [![Youtube video](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/OZOOLe2imFo?si=YoIhvBxPHYRLqrHG)
 * Python Machine Learning Tutorial [![Youtube](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/7eh4d6sabA0?si=6yKIZRtZbaRDvpVN)
 
-### NLP Expert 
+### Step 5b - NLP Expert 
 Below are some resources that will give you knowledge on NLP fundamentals before jumping into the sea of Large Language Models (LLMs) and Transformers
 
 * Stanford NLP Course [![Youtube Playlist](https://img.shields.io/badge/youtube-playlist-red)](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=dePhbnlV7XghdNqo)
@@ -72,7 +72,7 @@ Below are some resources that will give you knowledge on NLP fundamentals before
 * NLTK with Python for NLP [![Youtube Playlist](https://img.shields.io/badge/youtube-video-red)](https://youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL&si=-2RDqorBmVIMZCLl)
 * Deep Learning With Tensorflow 2.0, Keras and Python [![Youtube Playlist](https://img.shields.io/badge/youtube-video-red)](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&si=FE2Nb6Ye1gzy5CxA)
 
-### Computer Vision Expert
+### Step 5c - Computer Vision Expert
 If you fancy vision over language, then you will have to learn about convolutional neural networks and computer vision in general before jumping into Transformers and Generative models such as Diffusion Models. Below are some resources to learn Computer Vision
 * Stanford Vision Course [![youtube playlist](https://img.shields.io/badge/youtube-playlist-red)](https://youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ&si=553HbDVPA74TXzH2)
 * Computer Vision fundameltals by Berkeley  [![youtube playlist](https://img.shields.io/badge/youtube-playlist-red)](https://youtube.com/playlist?list=PLhwIOYE-ldwL6h-peJADfNm8bbO3GlKEy&si=RJ20eGaBHt8R-avO)
