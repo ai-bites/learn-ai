@@ -10,6 +10,7 @@ The roadmap is divided into a generalist and specialist contents. The generalist
 ## Generalist
 Any generalist in AI should be fluent in Mathematics, Programming and Fundamentals of Machine Learning.
 
+![Capture](assets/generalist.png)
 ### Mathematics 
 * Linear Algebra by Prof. Gilbert Strang [![MIT](https://img.shields.io/badge/MIT-Course-green)](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010)
 * Essence of linear algebra by 3Blue1Brown [![Youtube](https://img.shields.io/badge/youtube-playlist-red)](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=qzO3W0FPK8phBwfq)
@@ -50,6 +51,8 @@ If you are struggling to choose between NLP and Computer Vision, there is are cr
 * Data Science Crashcourse [![Youtube Video](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/X3paOmcrTjQ?si=urNTnMpQ4DwGj_FC)
 * NLP Crashcourse [![Youtube Video](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/oi0JXuL19TA?si=Jfl9IETi76feN1rl)
 * Computer Vision Crashcourse [![Youtube Video](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/-4E2-0sxVUM?si=CbLa1PgiG6Nxh0nv)
+
+![Capture](assets/generalist.png)
 
 ### Data Science Expert
 Data scientists mostly work with time series and tabular data. For this reason, its best to learn packages like NumPy, SciPy, ScikitLearn which have impementations of most mathematical operations data scientists use on a day to day basis. They also plot and visualize data quite a lot and so its important to strengthen your Matplotlib. 
